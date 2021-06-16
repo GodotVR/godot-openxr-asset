@@ -1,0 +1,7 @@
+Contributors
+============
+
+This plugin has mostly been developed by [Christoph Haag](https://github.com/ChristophHaag) (original plugin and Linux support) and [Bastiaan Olij](https://github.com/BastiaanOlij) (Windows support).
+
+Other people who have helped out by submitting fixes, enhancements, etc are:
+- [Aaron Franke](https://github.com/aaronfranke)
