@@ -11,7 +11,7 @@ Source code for this module can be found here:
 https://github.com/GodotVR/godot_openxr
 
 Also note that we have a support asset containing a number of useful scenes to get you going building VR applications in Godot:
-https://github.com/GodotVR/godot-xr-common
+https://github.com/GodotVR/godot-xr-tools
 
 Documentation on using this asset can be found here:
 https://github.com/GodotVR/godot-openxr-asset/wiki
